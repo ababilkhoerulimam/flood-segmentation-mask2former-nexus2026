@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Weights & Biases
+wandb/
+.wandb/
+
+# Model Checkpoints & Large Weights
+checkpoints*/
+*.pth
+*.pt
+*.onnx
+*.bin
+
+# System files
+.DS_Store
+Thumbs.db
