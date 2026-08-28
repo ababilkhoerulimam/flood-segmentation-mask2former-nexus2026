@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="logo.png" alt="Logo" width="128" height="128">
+
   <h1>dolanan-data-nexus-2026-final</h1>
   <p><strong>Multi-Class Flood Semantic Segmentation using Swin-Tiny Mask2Former</strong></p>
 
@@ -77,6 +79,7 @@ $$
 │   └── submission-argmax.csv
 ├── .gitignore
 ├── dolanan-data-nexus-2026-final.ipynb
+├── logo.png
 ├── notebook-context.md
 ├── requirements.txt
 ├── LICENSE
