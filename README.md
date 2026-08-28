@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="Logo" width="128" height="128">
 
-  <h1>dolanan-data-nexus-2026-final</h1>
+  <h1>flood-segmentation-mask2former-nexus2026</h1>
   <p><strong>Multi-Class Flood Semantic Segmentation using Swin-Tiny Mask2Former</strong></p>
 
   <p align="center">
